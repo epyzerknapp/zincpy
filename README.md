@@ -1,4 +1,4 @@
-#ZINCPY - A Python API for the ZINC database. 
+#ZINCPY - A Python Tool for Searching the ZINC Database. 
 
 The ZINC database (http://zinc.docking.org/) is a fantastic resource for chemists, containing over 35 million purchasable molecules, made by combining many popular (and niche!) chemical catalogs.
 
