@@ -46,6 +46,13 @@ info = zp.search_smiles_list(['c1ccccc1', 'c1cc[nH]c1'])
 print info
 ```
 
+##Citations
+
+To cite ZINC, please reference: Irwin, Sterling, Mysinger, Bolstad and Coleman, J. Chem. Inf. Model. 2012 DOI: 10.1021/ci3001277. 
+The original publication is Irwin and Shoichet, J. Chem. Inf. Model. 2005;45(1):177-82 PDF, DOI.
+
+If you use this API in your work, please reference this github repository.
+
 
 ##Contact
 
